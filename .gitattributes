@@ -1,5 +1,5 @@
-.C++ linguist-detectable=false
-.CMake linguist-detectable=false
-.HTML linguist-detectable=false
-.Swift linguist-detectable=false
-.C linguist-detectable=false
+.C++ linguist-detectable=true
+.CMake linguist-detectable=true
+.HTML linguist-detectable=true
+.Swift linguist-detectable=true
+.C linguist-detectable=true
